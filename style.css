@@ -6,6 +6,7 @@ html {
 body {
   color: white;
   background-color: #202020;
+  font-size: 1.8rem
 }
 
 h1 {
@@ -30,6 +31,12 @@ p {
   font-size: 1.8rem;
 }
 
+a {
+  color: #99ccff;
+}
+a:visited {
+  color: #E6DBFF;
+}
 .container {
   width: 100%;
   max-width: 1200px;
